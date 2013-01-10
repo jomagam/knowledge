@@ -1,0 +1,5 @@
+Source code:
+Get $EXTENSION_ID from chrome://chrome/extensions/
+source code in ~/.config/google-chrome/Default/Extensions/$EXTENSION_ID
+
+
