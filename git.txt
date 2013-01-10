@@ -5,3 +5,4 @@ echo FOO > README.md
 git add README.md
 git commit -m "first commit" README.md
 git push -u origin master
+# or git push
