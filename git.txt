@@ -3,5 +3,5 @@ Create a new repository; after adding one on Github
 git remote set-url origin git@github.com:jomagam/$REPONMAE.git
 echo FOO > README.md
 git add README.md
-git commit -m "first commit"
+git commit -m "first commit" README.md
 git push -u origin master
