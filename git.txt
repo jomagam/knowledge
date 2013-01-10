@@ -1,8 +1,7 @@
 Create a new repository; after adding one on Github
 
+git remote add origin git@github.com:jomagam/$REPONMAE.git
 touch README.md
-git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/jomagam/$REPONMAE.git
 git push -u origin master
