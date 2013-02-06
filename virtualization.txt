@@ -1,0 +1,3 @@
+Install guest editions from Devices menu to resize screen
+
+

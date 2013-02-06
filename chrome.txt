@@ -3,3 +3,10 @@ Get $EXTENSION_ID from chrome://chrome/extensions/
 source code in ~/.config/google-chrome/Default/Extensions/$EXTENSION_ID
 
 
+Documentation: https://developer.chrome.com/extensions/manifest.html
+
+
+
+Misc API-s: https://developer.chrome.com/extensions/api_other.html
+
+Examples: http://developer.chrome.com/extensions/samples.html

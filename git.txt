@@ -6,3 +6,9 @@ git add README.md
 git commit -m "first commit" README.md
 git push -u origin master
 # or git push
+
+
+
+git init
+git remote add origin git@github.com:jomagam/$REPONMAE.git
+
